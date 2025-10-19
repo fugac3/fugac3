@@ -1,7 +1,7 @@
 Hi 👋 My name is Hope Kerengera
 ===============================
 
-Front-end Web Developer
+Software Developer
 -----------------------
 
 I aspire to become a full-stack web developer with a focus on the front-end side, as it aligns with my passion for creativity and allows me to combine my interests in both design and problem-solving to create user-friendly web applications.
@@ -9,8 +9,8 @@ I aspire to become a full-stack web developer with a focus on the front-end side
 * 🌍  I'm based in Cape Town, South Africa
 * 🖥️  See my portfolio at [Hope](http://stupendous-meerkat-c310b5.netlify.app)
 * ✉️  You can contact me at [k.hope.ing@gmail.com](mailto:k.hope.ing@gmail.com)
-* 🚀  I'm currently working on [Add to Cart](http://add-to-cart-hope-k.netlify.app)
-* 🧠  I'm learning Advanced JavaScript and WordPress
+* 🚀  I'm currently working on a movie recommender.
+* 🧠  I'm currently learning Data Engineering.
 
 ### Skills
 
